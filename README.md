@@ -1,5 +1,5 @@
 # Madhav-ecommerce-Sales-Dashboar-Power-BI-
-
+![image](https://github.com/user-attachments/assets/6dbd6151-aa60-4187-9f5c-ae04ed8653b0)
 **Madhav Ecommerce Sales Dashboard Analysis Report** 
 
 **Introduction**
@@ -78,4 +78,4 @@ Profitability is inconsistent across months, with certain periods experiencing l
 Printers dominate in profitability, making them a key focus for sales strateg.
 
 
-![image](https://github.com/user-attachments/assets/6dbd6151-aa60-4187-9f5c-ae04ed8653b0)
+
